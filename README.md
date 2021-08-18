@@ -25,10 +25,9 @@
 <p align="left">
 <a href="https://twitter.com/kamalki38475558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamalki38475558" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kamal614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamal614" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15801123/kamal-kishor-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15801123/kamal-kishor-kumar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15801123/kamal-kishor-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15801123/kamal-kishor-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/the.kishorkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.kishorkumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wizardweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wizardweb" height="30" width="40" /></a>
-<a href="/https://wizardweb.in/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wizardweb.in/feed/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwXdcg6IwehLnsVD95hhwxA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wizardweb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
